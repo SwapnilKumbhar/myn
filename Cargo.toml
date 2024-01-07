@@ -1,0 +1,14 @@
+[package]
+name = "myn"
+version = "0.1.0"
+authors = ["Swapnil Kumbhar <swapsk05@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libc = "0.2"
+log = "0.4"
+log4rs = "1.0.0"
+pam-client = "0.5.0"
+pam-sys = "1.0.0-alpha3"

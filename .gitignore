@@ -1,0 +1,10 @@
+/target
+
+/Scratch
+
+.gdb_history
+.idea/
+
+# Vim stuff
+Session.vim
+tags
